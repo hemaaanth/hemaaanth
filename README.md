@@ -1,8 +1,5 @@
 ### Hemanth Soni
 
-#### Working on:
-- Learning Python with a focus on data analytics
-
 #### Links:
 - [Personal homepage](https://hemanthsoni.com)
 - [LinkedIn](https://linkedin.com/in/hemanthsoni)
